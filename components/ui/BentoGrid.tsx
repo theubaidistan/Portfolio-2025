@@ -12,6 +12,7 @@ import { BackgroundGradientAnimation } from "./GradientBg";
 import GridGlobe from "./GridGlobe";
 import animationData from "@/data/confetti.json";
 import MagicButton from "../MagicButton";
+import { FaDownload } from "react-icons/fa";
 
 export const BentoGrid = ({
   className,
@@ -177,22 +178,35 @@ export const BentoGridItem = ({
               {/* add rounded-md h-8 md:h-8, remove rounded-full */}
               {/* remove focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50 */}
               {/* add handleCopy() for the copy the text */}
-              <div
+              {/* <div
                 className={`absolute -bottom-5 right-0 ${
                   copied ? "block" : "block"
                 }`}
-              >
+              > */}
+              <div className={"absolute -bottom-5 right-0"}>
                 {/* <img src="/confetti.gif" alt="confetti" /> */}
                 <Lottie options={defaultOptions} height={200} width={400} />
               </div>
 
-              <MagicButton
+              {/* <MagicButton
                 title={copied ? "Email is Copied!" : "Copy my email address"}
-                icon={<IoCopyOutline />}
+                icon={<FaDownload />}
                 position="left"
                 handleClick={handleCopy}
                 otherClasses="!bg-[#161A31]"
-              />
+              /> */}
+
+              <a
+                href="https://www.mediafire.com/file/n5e0ldsclfabn8s/Ubaid_Full+Stack_CV.pdf"
+                target="_blank"
+              >
+                <MagicButton
+                  title="Checkout My Resume"
+                  icon={<FaDownload />}
+                  position="left"
+                  otherClasses="!bg-[#161A31]"
+                />
+              </a>
             </div>
           )}
         </div>
