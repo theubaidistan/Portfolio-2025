@@ -18,19 +18,19 @@ const Footer = () => {
 
       <div className="flex flex-col items-center">
         <h1 className="heading lg:max-w-[45vw]">
-          Ready to take <span className="text-purple">your</span> digital
-          presence to the next level?
+          Ready To Take <span className="text-purple">Your</span> Digital
+          Presence To The Next Level?
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
-          Reach out to me today and let&apos;s discuss how I can help you
-          achieve your goals.
+          Reach Out to Me Today and Let&apos;s Discuss How I can Help You
+          Achieve Your Goals.
         </p>
         <a
           href="https://www.mediafire.com/file/n5e0ldsclfabn8s/Ubaid_Full+Stack_CV.pdf"
           target="_blank"
         >
           <MagicButton
-            title="Let's get in touch"
+            title="Let's Get in Touch"
             icon={<FaLocationArrow />}
             position="right"
           />

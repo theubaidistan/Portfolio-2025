@@ -9,8 +9,8 @@ const Clients = () => {
   return (
     <section id="testimonials" className="py-20">
       <h1 className="heading">
-        Kind words from
-        <span className="text-purple"> satisfied clients</span>
+        Kind Words From
+        <span className="text-purple"> Satisfied Clients</span>
       </h1>
 
       <div className="flex flex-col items-center max-lg:mt-10">
@@ -20,7 +20,7 @@ const Clients = () => {
         >
           <InfiniteMovingCards
             items={testimonials}
-            direction="right"
+            direction="left"
             speed="slow"
           />
         </div>

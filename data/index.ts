@@ -18,7 +18,7 @@ export const gridItems = [
   },
   {
     id: 2,
-    title: "I'm very Flexible with Time Zone Communications.",
+    title: "I'm Very Flexible With Time Zone Communications.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
@@ -29,7 +29,7 @@ export const gridItems = [
   {
     id: 3,
     title: "My Tech Stack",
-    description: "I constantly Try to Improve.",
+    description: "I constantly Try To Improve.",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-center",
@@ -38,7 +38,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "Tech Enthusiast with a Passion for Development.",
+    title: "Tech Enthusiast With A Passion For Development.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library.",
+    title: "Currently Building a JS Animation Library.",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -59,7 +59,7 @@ export const gridItems = [
   },
   {
     id: 6,
-    title: "Do you want to start a project together?",
+    title: "Do You Want To Start a Project Together?",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -107,31 +107,31 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Muhammad Ubaid was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Muhammad Ubaid was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Muhammad Ubaid enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Muhammad Ubaid is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Muhammad Ubaid was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Muhammad Ubaid was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Muhammad Ubaid enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Muhammad Ubaid is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Muhammad Ubaid was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Muhammad Ubaid was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Muhammad Ubaid enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Muhammad Ubaid is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Muhammad Ubaid was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Muhammad Ubaid was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Muhammad Ubaid enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Muhammad Ubaid is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Muhammad Ubaid was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Muhammad Ubaid was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Muhammad Ubaid enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Muhammad Ubaid is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },

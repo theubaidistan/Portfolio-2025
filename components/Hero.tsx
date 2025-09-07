@@ -39,21 +39,21 @@ const Hero = () => {
       <div className="flex justify-center relative my-20 z-10">
         <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
           <h2 className="upper tracking-widest text-xs text-center text-blue-100 max-w-80">
-            Dynamic Web Magic with Full Stack Web Application!
+            Dynamic Web Magic With Full Stack Web Application!
           </h2>
 
           <TextGenerateEffect
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
-            words="Transforming Concepts into Seamless User Experiences"
+            words="Transforming Concepts Into Seamless User Experiences"
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
             {" "}
-            Hi! I&apos;m Muhammad Ubaid, a Full Stack Web Developer based in
-            Pakistan.
+            Assalam-o-Alaikum! I&apos;m Muhammad Ubaid, a Full Stack Web
+            Developer Based in Pakistan.
           </p>
           <a href="#about">
             <MagicButton
-              title="Show my work"
+              title="Show My Work"
               icon={<FaLocationArrow />}
               position="right"
             />
